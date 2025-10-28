@@ -1,0 +1,241 @@
+Brand,Series,Model,Launch_Year,Price
+Apple,iPhone,iPhone 1,2022,₹18875
+Apple,iPhone,iPhone 2,2022,₹87980
+Apple,iPhone,iPhone 3,2022,₹15084
+Apple,iPhone,iPhone 4,2022,₹60711
+Apple,iPhone,iPhone 5,2020,₹41116
+Apple,iPhone,iPhone 6,2020,₹30677
+Apple,iPhone,iPhone 7,2023,₹54920
+Apple,iPhone,iPhone 8,2019,₹69912
+Apple,iPhone,iPhone 9,2023,₹69580
+Apple,iPhone,iPhone 10,2018,₹32641
+Apple,iPhone,iPhone 11,2020,₹26972
+Apple,iPhone,iPhone 12,2021,₹52017
+Apple,iPhone,iPhone 13,2019,₹81498
+Apple,iPhone,iPhone 14,2024,₹66465
+Apple,iPhone,iPhone 15,2022,₹24954
+Apple,iPhone,iPhone 16,2025,₹53154
+Apple,iPhone,iPhone 17,2025,₹38855
+Apple,iPhone,iPhone 18,2021,₹89754
+Apple,iPhone,iPhone 19,2021,₹48507
+Apple,iPhone,iPhone 20,2018,₹59961
+Samsung,Galaxy S,Galaxy S 1,2022,₹54737
+Samsung,Galaxy S,Galaxy S 2,2021,₹99442
+Samsung,Galaxy S,Galaxy S 3,2021,₹76944
+Samsung,Galaxy S,Galaxy S 4,2024,₹39733
+Samsung,Galaxy S,Galaxy S 5,2025,₹19303
+Samsung,Galaxy S,Galaxy S 6,2022,₹25088
+Samsung,Galaxy S,Galaxy S 7,2023,₹36322
+Samsung,Galaxy S,Galaxy S 8,2020,₹86445
+Samsung,Galaxy S,Galaxy S 9,2019,₹40604
+Samsung,Galaxy S,Galaxy S 10,2019,₹84703
+Samsung,Galaxy S,Galaxy S 11,2020,₹17518
+Samsung,Galaxy S,Galaxy S 12,2018,₹24383
+Samsung,Galaxy S,Galaxy S 13,2021,₹89596
+Samsung,Galaxy S,Galaxy S 14,2023,₹83997
+Samsung,Galaxy S,Galaxy S 15,2022,₹55950
+Samsung,Galaxy S,Galaxy S 16,2023,₹16824
+Samsung,Galaxy S,Galaxy S 17,2018,₹81083
+Samsung,Galaxy S,Galaxy S 18,2018,₹48359
+Samsung,Galaxy S,Galaxy S 19,2021,₹65266
+Samsung,Galaxy S,Galaxy S 20,2022,₹64752
+Samsung,Galaxy Note,Galaxy Note 1,2024,₹87374
+Samsung,Galaxy Note,Galaxy Note 2,2018,₹83273
+Samsung,Galaxy Note,Galaxy Note 3,2022,₹23558
+Samsung,Galaxy Note,Galaxy Note 4,2025,₹15458
+Samsung,Galaxy Note,Galaxy Note 5,2025,₹18195
+Samsung,Galaxy Note,Galaxy Note 6,2022,₹64605
+Samsung,Galaxy Note,Galaxy Note 7,2019,₹86042
+Samsung,Galaxy Note,Galaxy Note 8,2020,₹94597
+Samsung,Galaxy Note,Galaxy Note 9,2025,₹52926
+Samsung,Galaxy Note,Galaxy Note 10,2021,₹18798
+Samsung,Galaxy Note,Galaxy Note 11,2019,₹48587
+Samsung,Galaxy Note,Galaxy Note 12,2024,₹80454
+Samsung,Galaxy Note,Galaxy Note 13,2018,₹83911
+Samsung,Galaxy Note,Galaxy Note 14,2022,₹31641
+Samsung,Galaxy Note,Galaxy Note 15,2019,₹59591
+Samsung,Galaxy Note,Galaxy Note 16,2019,₹15361
+Samsung,Galaxy Note,Galaxy Note 17,2018,₹42306
+Samsung,Galaxy Note,Galaxy Note 18,2025,₹13021
+Samsung,Galaxy Note,Galaxy Note 19,2023,₹19777
+Samsung,Galaxy Note,Galaxy Note 20,2018,₹24020
+OnePlus,OnePlus,OnePlus 1,2025,₹27941
+OnePlus,OnePlus,OnePlus 2,2022,₹35459
+OnePlus,OnePlus,OnePlus 3,2018,₹41016
+OnePlus,OnePlus,OnePlus 4,2021,₹63457
+OnePlus,OnePlus,OnePlus 5,2021,₹88227
+OnePlus,OnePlus,OnePlus 6,2025,₹37477
+OnePlus,OnePlus,OnePlus 7,2023,₹14766
+OnePlus,OnePlus,OnePlus 8,2022,₹37153
+OnePlus,OnePlus,OnePlus 9,2021,₹56565
+OnePlus,OnePlus,OnePlus 10,2021,₹79517
+OnePlus,OnePlus,OnePlus 11,2024,₹21942
+OnePlus,OnePlus,OnePlus 12,2020,₹96339
+OnePlus,OnePlus,OnePlus 13,2024,₹83053
+OnePlus,OnePlus,OnePlus 14,2025,₹10423
+OnePlus,OnePlus,OnePlus 15,2023,₹77004
+OnePlus,OnePlus,OnePlus 16,2022,₹60886
+OnePlus,OnePlus,OnePlus 17,2022,₹77293
+OnePlus,OnePlus,OnePlus 18,2021,₹26705
+OnePlus,OnePlus,OnePlus 19,2018,₹24740
+OnePlus,OnePlus,OnePlus 20,2025,₹37222
+Xiaomi,Redmi Note,Redmi Note 1,2021,₹99410
+Xiaomi,Redmi Note,Redmi Note 2,2019,₹58546
+Xiaomi,Redmi Note,Redmi Note 3,2025,₹67586
+Xiaomi,Redmi Note,Redmi Note 4,2025,₹98467
+Xiaomi,Redmi Note,Redmi Note 5,2025,₹78988
+Xiaomi,Redmi Note,Redmi Note 6,2024,₹50702
+Xiaomi,Redmi Note,Redmi Note 7,2018,₹76144
+Xiaomi,Redmi Note,Redmi Note 8,2021,₹65925
+Xiaomi,Redmi Note,Redmi Note 9,2023,₹57105
+Xiaomi,Redmi Note,Redmi Note 10,2022,₹9435
+Xiaomi,Redmi Note,Redmi Note 11,2021,₹34849
+Xiaomi,Redmi Note,Redmi Note 12,2020,₹63342
+Xiaomi,Redmi Note,Redmi Note 13,2025,₹68443
+Xiaomi,Redmi Note,Redmi Note 14,2022,₹13468
+Xiaomi,Redmi Note,Redmi Note 15,2024,₹51944
+Xiaomi,Redmi Note,Redmi Note 16,2020,₹84904
+Xiaomi,Redmi Note,Redmi Note 17,2019,₹8629
+Xiaomi,Redmi Note,Redmi Note 18,2022,₹16231
+Xiaomi,Redmi Note,Redmi Note 19,2024,₹51597
+Xiaomi,Redmi Note,Redmi Note 20,2025,₹53019
+Xiaomi,Mi,Mi 1,2021,₹89087
+Xiaomi,Mi,Mi 2,2018,₹48901
+Xiaomi,Mi,Mi 3,2022,₹76450
+Xiaomi,Mi,Mi 4,2022,₹80308
+Xiaomi,Mi,Mi 5,2019,₹46486
+Xiaomi,Mi,Mi 6,2021,₹48891
+Xiaomi,Mi,Mi 7,2023,₹10971
+Xiaomi,Mi,Mi 8,2025,₹66464
+Xiaomi,Mi,Mi 9,2025,₹48314
+Xiaomi,Mi,Mi 10,2021,₹19573
+Xiaomi,Mi,Mi 11,2022,₹53118
+Xiaomi,Mi,Mi 12,2020,₹11638
+Xiaomi,Mi,Mi 13,2022,₹91937
+Xiaomi,Mi,Mi 14,2020,₹70524
+Xiaomi,Mi,Mi 15,2020,₹94911
+Xiaomi,Mi,Mi 16,2022,₹51037
+Xiaomi,Mi,Mi 17,2025,₹85687
+Xiaomi,Mi,Mi 18,2024,₹42383
+Xiaomi,Mi,Mi 19,2023,₹65127
+Xiaomi,Mi,Mi 20,2018,₹86542
+Realme,Realme,Realme 1,2018,₹12208
+Realme,Realme,Realme 2,2021,₹28624
+Realme,Realme,Realme 3,2020,₹98072
+Realme,Realme,Realme 4,2020,₹38459
+Realme,Realme,Realme 5,2020,₹48340
+Realme,Realme,Realme 6,2019,₹9959
+Realme,Realme,Realme 7,2022,₹67482
+Realme,Realme,Realme 8,2024,₹13059
+Realme,Realme,Realme 9,2025,₹22762
+Realme,Realme,Realme 10,2024,₹26875
+Realme,Realme,Realme 11,2021,₹22781
+Realme,Realme,Realme 12,2023,₹25682
+Realme,Realme,Realme 13,2021,₹31938
+Realme,Realme,Realme 14,2022,₹43388
+Realme,Realme,Realme 15,2025,₹23811
+Realme,Realme,Realme 16,2023,₹41916
+Realme,Realme,Realme 17,2025,₹18234
+Realme,Realme,Realme 18,2019,₹30080
+Realme,Realme,Realme 19,2021,₹59609
+Realme,Realme,Realme 20,2020,₹42398
+Vivo,V,V 1,2023,₹44852
+Vivo,V,V 2,2021,₹80955
+Vivo,V,V 3,2020,₹9286
+Vivo,V,V 4,2018,₹30456
+Vivo,V,V 5,2019,₹8597
+Vivo,V,V 6,2019,₹38059
+Vivo,V,V 7,2019,₹90852
+Vivo,V,V 8,2019,₹45149
+Vivo,V,V 9,2021,₹24299
+Vivo,V,V 10,2019,₹32788
+Vivo,V,V 11,2023,₹59904
+Vivo,V,V 12,2019,₹12733
+Vivo,V,V 13,2021,₹18769
+Vivo,V,V 14,2024,₹51502
+Vivo,V,V 15,2023,₹26086
+Vivo,V,V 16,2022,₹68468
+Vivo,V,V 17,2024,₹29693
+Vivo,V,V 18,2023,₹18445
+Vivo,V,V 19,2018,₹85382
+Vivo,V,V 20,2024,₹12303
+Oppo,Oppo,Oppo 1,2018,₹59155
+Oppo,Oppo,Oppo 2,2025,₹62129
+Oppo,Oppo,Oppo 3,2022,₹75634
+Oppo,Oppo,Oppo 4,2020,₹30409
+Oppo,Oppo,Oppo 5,2022,₹23034
+Oppo,Oppo,Oppo 6,2022,₹10914
+Oppo,Oppo,Oppo 7,2022,₹68183
+Oppo,Oppo,Oppo 8,2019,₹42717
+Oppo,Oppo,Oppo 9,2022,₹69525
+Oppo,Oppo,Oppo 10,2021,₹47245
+Oppo,Oppo,Oppo 11,2024,₹11553
+Oppo,Oppo,Oppo 12,2018,₹83328
+Oppo,Oppo,Oppo 13,2023,₹44454
+Oppo,Oppo,Oppo 14,2023,₹62344
+Oppo,Oppo,Oppo 15,2021,₹20305
+Oppo,Oppo,Oppo 16,2018,₹40812
+Oppo,Oppo,Oppo 17,2024,₹11088
+Oppo,Oppo,Oppo 18,2022,₹66005
+Oppo,Oppo,Oppo 19,2024,₹60154
+Oppo,Oppo,Oppo 20,2024,₹75464
+Motorola,Moto,Moto 1,2025,₹57642
+Motorola,Moto,Moto 2,2018,₹61959
+Motorola,Moto,Moto 3,2023,₹91501
+Motorola,Moto,Moto 4,2025,₹16471
+Motorola,Moto,Moto 5,2021,₹10952
+Motorola,Moto,Moto 6,2021,₹39305
+Motorola,Moto,Moto 7,2021,₹74257
+Motorola,Moto,Moto 8,2020,₹74048
+Motorola,Moto,Moto 9,2019,₹68716
+Motorola,Moto,Moto 10,2019,₹41008
+Motorola,Moto,Moto 11,2020,₹34049
+Motorola,Moto,Moto 12,2020,₹38247
+Motorola,Moto,Moto 13,2024,₹12472
+Motorola,Moto,Moto 14,2020,₹63287
+Motorola,Moto,Moto 15,2021,₹22318
+Motorola,Moto,Moto 16,2024,₹86371
+Motorola,Moto,Moto 17,2019,₹58262
+Motorola,Moto,Moto 18,2024,₹36623
+Motorola,Moto,Moto 19,2023,₹73450
+Motorola,Moto,Moto 20,2024,₹35658
+Poco,Poco,Poco 1,2021,₹82354
+Poco,Poco,Poco 2,2020,₹63715
+Poco,Poco,Poco 3,2019,₹50384
+Poco,Poco,Poco 4,2020,₹30281
+Poco,Poco,Poco 5,2019,₹79308
+Poco,Poco,Poco 6,2023,₹30828
+Poco,Poco,Poco 7,2019,₹18085
+Poco,Poco,Poco 8,2025,₹55894
+Poco,Poco,Poco 9,2019,₹85847
+Poco,Poco,Poco 10,2018,₹57727
+Poco,Poco,Poco 11,2019,₹15035
+Poco,Poco,Poco 12,2022,₹31203
+Poco,Poco,Poco 13,2021,₹47939
+Poco,Poco,Poco 14,2021,₹40703
+Poco,Poco,Poco 15,2023,₹25432
+Poco,Poco,Poco 16,2018,₹70407
+Poco,Poco,Poco 17,2021,₹44967
+Poco,Poco,Poco 18,2018,₹48108
+Poco,Poco,Poco 19,2021,₹66699
+Poco,Poco,Poco 20,2018,₹60374
+Nothing,Nothing,Nothing 1,2021,₹26043
+Nothing,Nothing,Nothing 2,2019,₹84332
+Nothing,Nothing,Nothing 3,2018,₹92549
+Nothing,Nothing,Nothing 4,2021,₹96555
+Nothing,Nothing,Nothing 5,2021,₹52097
+Nothing,Nothing,Nothing 6,2021,₹71280
+Nothing,Nothing,Nothing 7,2019,₹17240
+Nothing,Nothing,Nothing 8,2021,₹15845
+Nothing,Nothing,Nothing 9,2024,₹22259
+Nothing,Nothing,Nothing 10,2024,₹95114
+Nothing,Nothing,Nothing 11,2018,₹42245
+Nothing,Nothing,Nothing 12,2021,₹21140
+Nothing,Nothing,Nothing 13,2020,₹40778
+Nothing,Nothing,Nothing 14,2023,₹70240
+Nothing,Nothing,Nothing 15,2019,₹79346
+Nothing,Nothing,Nothing 16,2019,₹68924
+Nothing,Nothing,Nothing 17,2018,₹88244
+Nothing,Nothing,Nothing 18,2022,₹68911
+Nothing,Nothing,Nothing 19,2018,₹68667
+Nothing,Nothing,Nothing 20,2020,₹12454
